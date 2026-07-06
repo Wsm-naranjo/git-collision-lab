@@ -1,3 +1,3 @@
-function calcularDescuento(valor, porcentaje) {
-    return valor * (porcentaje / 100);
+function calcularDescuento(valor) {
+    return valor * 0.80; // Descuento aplicado desde el Colaborador 1
 }
