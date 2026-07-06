@@ -1,3 +1,3 @@
-function calcularDescuento(valor) {
-    return valor * 0.80; // Descuento aplicado desde el Colaborador 1
+function calcularDescuento(precio) {
+return precio * 0.12; // Modificación acordada en vivo por la pareja
 }
